@@ -1,4 +1,4 @@
-droidifier-server
+droidifier-daemon
 =================
 
-Droidifier server application.
+Droidifier daemon application.
